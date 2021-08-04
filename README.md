@@ -1,5 +1,4 @@
 # SportsTicketApp
-
 This app is an online market for selling the stadium tickets for a collection of matches
 
 There is and SQLite database that contains the inforamtion about teams, stadiums and matches
